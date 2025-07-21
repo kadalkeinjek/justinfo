@@ -1,7 +1,4 @@
-<?php
-header("Location: https://115juridique.org/img/sikil.php", true, 301);
-exit();
-?>
+
 <?php
 
 
