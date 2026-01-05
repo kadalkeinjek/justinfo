@@ -35,6 +35,7 @@
 <meta property="og:image" content="https://palelo.org/kks/img/kaskustoto-bandar-togel-slot.webp" />
 <meta property="og:image:secure_url" content="https://palelo.org/kks/img/kaskustoto-bandar-togel-slot.webp" />
 <meta name="google-site-verification" content="nmKALxSHAigdXAzBNPFuU5THuAttqo4RtDPfQ6XkkUc" />
+<meta name="google-site-verification" content="gdHkBwJD3t5UhC0be16Mq1zVNNojBVyD2O1YBp07Eyk" />
 
 
 <script type="application/ld+json">
